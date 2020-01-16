@@ -1,0 +1,11 @@
+C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\bin\Debug\netcoreapp3.1\DrawingApp.exe
+C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\bin\Debug\netcoreapp3.1\DrawingApp.deps.json
+C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\bin\Debug\netcoreapp3.1\DrawingApp.runtimeconfig.json
+C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\bin\Debug\netcoreapp3.1\DrawingApp.runtimeconfig.dev.json
+C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\bin\Debug\netcoreapp3.1\DrawingApp.dll
+C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\bin\Debug\netcoreapp3.1\DrawingApp.pdb
+C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\obj\Debug\netcoreapp3.1\DrawingApp.csprojAssemblyReference.cache
+C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\obj\Debug\netcoreapp3.1\DrawingApp.AssemblyInfoInputs.cache
+C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\obj\Debug\netcoreapp3.1\DrawingApp.AssemblyInfo.cs
+C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\obj\Debug\netcoreapp3.1\DrawingApp.dll
+C:\Users\Igor Jerosimić\source\repos\Azure-Pipelines-Testing\Drawing\obj\Debug\netcoreapp3.1\DrawingApp.pdb
